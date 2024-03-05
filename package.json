@@ -1,7 +1,7 @@
 {
   "name": "new_typed_object",
   "version": "1.0.0",
-  "description": "Implementation of the Class with typed attributes using TypeScript",
+  "description": "Implementation of a Class with typed attributes using TypeScript",
   "main": "index.js",
   "scripts": {
     "build": "webpack --mode production",

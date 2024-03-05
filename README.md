@@ -1,6 +1,6 @@
 # Basics of «TypeScript»
 ---
-[![Build status](https://ci.appveyor.com/api/projects/status/f22hava44fa4rp2o?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-generators)
+[![Build status](https://ci.appveyor.com/api/projects/status/rrrd9y845hsh0s9t?svg=true)](https://ci.appveyor.com/project/AACMKT/ajs-typescript)
 
 ### Описание
 
